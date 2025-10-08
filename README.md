@@ -8,7 +8,6 @@ Currently exploring how design, code, and automation come together to create smo
 🌍 I am currently based in **Edison, NJ**  
 🎓 I graduated with a **B.S. in Computer Science** from **Rutgers University - New Brunswick**  
 🧠 I’m currently working on a **mobile app using Flutter**, and exploring **AI & Machine Learning** 
-
 🤝 Open to collaborations. Let's build something together
 
 ---
@@ -16,8 +15,7 @@ Currently exploring how design, code, and automation come together to create smo
 ### ⚙️ My GitHub Stats  
 <div align="center">
   
-![Jeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeethsoni&show_icons=true&theme=github_dark&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeethsoni&layout=compact&theme=github_dark_dimmed&hide_border=true)
+![Jeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeethsoni&show_icons=true&theme=github_dark&hide_border=true&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeethsoni&layout=compact&theme=github_dark_dimmed&hide_border=true)
 
 </div>
 
@@ -35,9 +33,7 @@ Currently exploring how design, code, and automation come together to create smo
 ### 🌐 Connect With Me  
 <div align="center">
   
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeet-dev/) 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:it.jsoni22@gmail.com) 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_jeetsoni/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeet-dev/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:it.jsoni22@gmail.com) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_jeetsoni/)
 
 </div>
 
