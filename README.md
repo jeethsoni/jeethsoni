@@ -17,7 +17,7 @@ Currently exploring how design, code, and automation come together to create smo
 <div align="center">
   
 ![Jeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeethsoni&show_icons=true&theme=github_dark&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeethsoni&layout=compact&theme=onedark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeethsoni&layout=compact&theme=github_dark_dimmed&hide_border=true)
 
 </div>
 
