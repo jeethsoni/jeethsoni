@@ -1,14 +1,14 @@
-# Hi 👋 I'm Jeet Soni  
+# Hi 👋 I'm Jeet Soni ([View My Portfolio](https://www.justdev.me))
 
 ### 💻 Software Developer | Builder of Ideas | Lifelong Learner  
 
 I'm a developer who loves turning ideas into real, working products — from IoT hardware to full-stack web apps.  
 Currently exploring how design, code, and automation come together to create smooth user experiences.
 
-🌍 Based in **Boston, MA**  
-🎓 Freshman at **Northeastern University**  
-🧠 Working on **AI-driven tools** and **IoT projects**  
-🤝 Open to collaborations on **Next.js, Arduino, and SaaS** ideas  
+🌍 I am currently based in **Edison, NJ**  
+🎓 I graduated with a **B.S. in Computer Science** from **Rutgers University - New Brunswick**  
+🧠 I’m currently working on a **mobile app using Flutter**, and exploring **AI & Machine Learning** 
+🤝 Open to collaborations. Let's build something together
 
 ---
 
@@ -22,27 +22,21 @@ Currently exploring how design, code, and automation come together to create smo
 
 ---
 
-### Tech Stack
+### 🧰 Tech Stack  
 <div align="center">
   
-![Next.js](https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,python,java,nodejs,express,mongodb,postgres,arduino,aws,git,vscode,vercel)
+![Next.js](https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,python,java,nodejs,express,mongodb,postgres,arduino,flutter,aws,git,vscode,vercel)
 
 </div>
-
----
-
-### 🚀 Projects I'm Proud Of  
-- 🧼 [ForHer](https://github.com/jeetsoni/ForHer) — Arduino-based automatic toilet seat cleaner  
-- 🛍️ [Shopimate](https://github.com/jeetsoni/shopimate-api) — Retailer-vendor connection API (Node + MongoDB)  
-- 💫 [Portfolio](https://www.justdev.me) — My personal interactive developer portfolio  
-- 🏀 [RunIt](https://github.com/jeetsoni/runit) — Sports court occupancy and booking app  
 
 ---
 
 ### 🌐 Connect With Me  
 <div align="center">
   
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeetsoni/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/jeetsoni) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jeetsoni.work@gmail.com) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jeetsoni._/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeet-dev/) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:it.jsoni22@gmail.com) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_jeetsoni/)
 
 </div>
 
@@ -50,4 +44,4 @@ Currently exploring how design, code, and automation come together to create smo
 
 ✨ *"I love creating things that make life easier, smarter, and more connected."*  
 Always open for suggestions, feedback, or collabs 👇  
-📩 **jeetsoni.work@gmail.com**
+📩 **it.jsoni22@gmail.com*
