@@ -42,10 +42,7 @@ Currently exploring how design, code, and automation come together to create smo
 ### 🌐 Connect With Me  
 <div align="center">
   
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeetsoni/) 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/jeetsoni)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jeetsoni.work@gmail.com)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jeetsoni._/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeetsoni/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/jeetsoni) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jeetsoni.work@gmail.com) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jeetsoni._/)
 
 </div>
 
