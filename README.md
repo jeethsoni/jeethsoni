@@ -8,6 +8,7 @@ Currently exploring how design, code, and automation come together to create smo
 🌍 I am currently based in **Edison, NJ**  
 🎓 I graduated with a **B.S. in Computer Science** from **Rutgers University - New Brunswick**  
 🧠 I’m currently working on a **mobile app using Flutter**, and exploring **AI & Machine Learning** 
+
 🤝 Open to collaborations. Let's build something together
 
 ---
@@ -15,7 +16,7 @@ Currently exploring how design, code, and automation come together to create smo
 ### ⚙️ My GitHub Stats  
 <div align="center">
   
-![Jeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeethsoni&show_icons=true&theme=onedark&hide_border=true&count_private=true)  
+![Jeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeethsoni&show_icons=true&theme=github_dark&hide_border=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeethsoni&layout=compact&theme=onedark&hide_border=true)
 
 </div>
