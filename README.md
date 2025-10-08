@@ -35,7 +35,7 @@ I’m passionate about using **technology to help people** and make their lives 
 ### 🌐 Connect With Me  
 <div align="center">
   
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeet-dev/)[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:it.jsoni22@gmail.com)[![Instagram](https://skillicons.dev/icons?i=instagram)(https://www.instagram.com/_jeetsoni/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeet-dev/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:it.jsoni22@gmail.com) [![Instagram](https://skillicons.dev/icons?i=instagram)(https://www.instagram.com/_jeetsoni/)
 
 </div>
 
