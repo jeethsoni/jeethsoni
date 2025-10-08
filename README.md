@@ -2,8 +2,10 @@
 
 ### 💻 Software Developer | Builder of Ideas | Lifelong Learner  
 
-I'm a developer who loves turning ideas into real, working products — from IoT hardware to full-stack web apps.  
-Currently exploring how design, code, and automation come together to create smooth user experiences.
+I'm a developer who loves turning ideas into real, meaningful products - combining creativity and code to solve real-world problems.  
+I’m passionate about using **technology to help people** and make their lives better.
+
+> 💬 *"Nobody has ever become poor by giving."* — Anne Frank  
 
 🌍 I am currently based in **Edison, NJ**  
 🎓 I graduated with a **B.S. in Computer Science** from **Rutgers University - New Brunswick**  
