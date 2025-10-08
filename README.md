@@ -8,7 +8,7 @@ Currently exploring how design, code, and automation come together to create smo
 🌍 I am currently based in **Edison, NJ**  
 🎓 I graduated with a **B.S. in Computer Science** from **Rutgers University - New Brunswick**  
 🧠 I’m currently working on a **mobile app using Flutter**, and exploring **AI & Machine Learning** 
-🤝 Open to collaborations. Let's build something together
+🤝 Open to collaborations. **Let's build something together**
 
 ---
 
