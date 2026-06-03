@@ -7,7 +7,7 @@ I’m passionate about using **technology to help people** and make their lives 
 
 > 💬 *"Nobody has ever become poor by giving."* — Anne Frank  
 
-🌍 I am currently based in **Edison, NJ**  
+🌍 I am currently based in **South Plainfield, NJ**  
 🎓 I graduated with a **B.S. in Computer Science** from **Rutgers University - New Brunswick**  
 🧠 I’m currently working on a **mobile app using Flutter**, and exploring **AI & Machine Learning** <br>
 🤝 Open to collaborations. **Let's build something together**
