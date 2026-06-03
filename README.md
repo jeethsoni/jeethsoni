@@ -35,4 +35,4 @@ I’m passionate about using **technology to help people** and make their lives 
 
 ✨ *"I love creating things that make life easier, smarter, and more connected."*  
 Always open for suggestions, feedback, or collabs 👇  
-📩 **jeetsoni.dev@gmail.com*
+📩 **jeetsoni.dev@gmail.com**
