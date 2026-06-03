@@ -15,9 +15,10 @@ I’m passionate about using **technology to help people** and make their lives 
 ---
 
 ### 🧰 Tech Stack  
+
 <div align="center">
-  
-![Next.js](https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,python,java,nodejs,express,mongodb,postgres,mysql,arduino,flutter,aws,git,vscode,vercel)
+
+![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,python,java,go,dart,nodejs,express,flask,fastapi,spring,mongodb,postgres,mysql,redis,firebase,supabase,arduino,flutter,aws,docker,git,github,vscode,vercel)
 
 </div>
 
