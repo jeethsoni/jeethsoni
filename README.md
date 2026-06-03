@@ -17,7 +17,7 @@ I’m passionate about using **technology to help people** and make their lives 
 ### 🧰 Tech Stack  
 <div align="center">
   
-![Next.js](https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,python,java,nodejs,express,mongodb,postgres,arduino,flutter,aws,git,vscode,vercel)
+![Next.js](https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,python,java,nodejs,express,mongodb,postgres,mysql,arduino,flutter,aws,git,vscode,vercel)
 
 </div>
 
@@ -34,4 +34,4 @@ I’m passionate about using **technology to help people** and make their lives 
 
 ✨ *"I love creating things that make life easier, smarter, and more connected."*  
 Always open for suggestions, feedback, or collabs 👇  
-📩 **it.jsoni22@gmail.com*
+📩 **jeetsoni.dev@gmail.com*
